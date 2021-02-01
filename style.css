@@ -1,0 +1,34 @@
+img{
+    width: 200px;
+    height: 300px;
+}
+div{
+    text-decoration: none;
+    position: relative;
+    display:inline-block;
+    border: 3px black dashed;
+    background-color: darkseagreen;
+    vertical-align: top;
+    width: 25%;
+    height: 600px;
+    margin: 15px 10px 5px ;
+    padding: 10px 30px 20px ;
+    text-decoration-color: darkolivegreen;quotes: 1;
+    background-color: antiquewhite;
+}
+
+.rating{
+    position: absolute;
+    bottom: 1px;
+    right: 40px;
+    font-size: 30px;
+    
+}
+
+.best{
+    color: yellowgreen;
+    font-size: 40px;
+    top: 0.5px;
+    right: 5px;
+    position: absolute;
+}
